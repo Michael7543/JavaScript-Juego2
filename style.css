@@ -1,0 +1,22 @@
+ html {
+    width: 100%;
+    height: 100%;
+  }
+  
+  body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #a8c899;
+     position: fixed;
+      left: 50%;
+      bottom: 1em;
+      transform: translateX(-50%);
+      content: 'Press arrow keys to start Snake';
+      color: white;
+      opacity: 0.4;
+  }
+  
+ 
